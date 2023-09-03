@@ -1,0 +1,27 @@
+{
+  "name": "erc20swapwhitelist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorisSV4646/ERC20SwapWhitelist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BorisSV4646/ERC20SwapWhitelist/issues"
+  },
+  "homepage": "https://github.com/BorisSV4646/ERC20SwapWhitelist#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.17.2"
+  }
+}
